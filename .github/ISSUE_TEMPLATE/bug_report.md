@@ -1,5 +1,5 @@
 ---
-name: Bug report
+name: https://github.com/Earthman100/base-name/edit/main/.github/ISSUE_TEMPLATE/feature_request.md
 about: Create a report to help us improve
 title: 'https://github.com/Earthman100/https-github.com-users-Earthman100-projects-1-column-15071257/pull/1#issue-997305684'
 labels: 'https://git.io/JvXDl'
