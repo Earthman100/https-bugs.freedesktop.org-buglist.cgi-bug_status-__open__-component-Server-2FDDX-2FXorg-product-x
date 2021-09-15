@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: 'https://github.com/Earthman100/https-github.com-users-Earthman100-projects-1-column-15071257/pull/1#issue-997305684'
 labels: ''
 assignees: ''
 
