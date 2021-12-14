@@ -9,7 +9,7 @@
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
 #
-Language: name_"CodeQL"
+Language: name_[]'"L?:?L"'
 
 on:
   push:
