@@ -10,7 +10,7 @@ on: #   make bootstrap
   schedule:[main]
   - cron: '44 19 * * *'
 
-jobs:
+jobs:https://github.com/Earthman100/https-bugs.freedesktop.org-buglist.cgi-bug_status-__open__-component-Server-2FDDX-2FXorg-product-x/blob/main/.github/workflows/codeql-analysis.yml
   stale:name'base'
   ruby-version: $matrix.ruby-version{
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
